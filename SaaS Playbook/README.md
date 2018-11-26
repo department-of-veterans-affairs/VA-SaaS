@@ -18,7 +18,7 @@ This playbook describes the high-level SaaS intake, assessment, and implementati
 7. Manage Operations / Measure Outcomes
 
 
-## PLAY 1: Define the Need / Validate Solution is SaaS
+## PLAY 1: Define the Need / Validate Solution is SaaS (incl. microconsulting)
 - [ ] Conduct a [ discovery sprint]( https://department-of-veterans-affairs.github.io/va-digital-service-handbook/digital-standards) with real users 
 - [ ] Fill out the [ VA SaaS Inquiry Form](https://vaww.oit.va.gov/services/saas/) 
 - [ ] [ Complete VIPR Epics](https://vaww.vashare.oit.va.gov/sites/dmo/dmdocsite/DM%20External%20Government/OIT%20Intake%20Process%203.0%20Job%20Aids%20and%20Supporting%20Documents/Epic%20Writing%20Best%20Practices.pptx ) 
@@ -42,7 +42,7 @@ This playbook describes the high-level SaaS intake, assessment, and implementati
 - [ ] Complete security assessment
 
 
-## PLAY 4: Test SaaS with Microconsulting MVP / Procure SaaS
+## PLAY 4: Procure SaaS
 - [ ] Complete a [ microconsulting](https://github.com/department-of-veterans-affairs/VA-SaaS/tree/master/Microconsulting)  product implementation to test your SaaS MVP
 - [ ] Gather feedback and lessons learned on SaaS MVP
 - [ ] Award SaaS procurement
