@@ -36,7 +36,7 @@ This playbook describes the high-level SaaS intake, assessment, and implementati
 - [ ] Prepare for [ SaaS procurement]( https://github.com/department-of-veterans-affairs/PSF-SaaS/issues/126) (sole source, SLA, etc.)
 
 ## PLAY 3: Procure SaaS
-- [ ] Award micro-consulting product implementation for SaaS MVP
+- [ ] Complete a [ microconsulting](https://github.com/department-of-veterans-affairs/VA-SaaS/tree/master/Microconsulting)  product implementation to test your SaaS MVP
 - [ ] Gather feedback and lessons learned on SaaS MVP
 - [ ] Award SaaS procurement
 
