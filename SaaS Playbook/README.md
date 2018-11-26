@@ -42,15 +42,16 @@ This playbook describes the high-level SaaS intake, assessment, and implementati
 
 ## PLAY 4: Ensure ATO Compliance
 - [ ] Follow VA's ATO process: [ VA’s Authorization Requirements Standard Operating Procedures v3.22 (June 2018)](https://vaww.portal2.va.gov/sites/infosecurity/ca/CA%20Home%20Documents/Forms/AllItems.aspx?RootFolder=%2Fsites%2Finfosecurity%2Fca%2FCA%20Home%20Documents%2FATO%20Documents&FolderCTID=0x012000CB0DD849BEA0AB4FA5FEE491047C852D&View=%7B5FCA9CEF%2D1C50%2D441D%2DA2FE%2D28D536ED0098%7D)
-- [ ] Approved ATO 
+- [ ] VA issues FedRAMP ATO for SaaS / baseline for VA information system
+- [ ] VA information system completes Risk Managemetn Framework requirements
 - [ ] Ensure ESCCB approval as needed (for connections to VA systems)
+- [ ] VA Information System ATO is issued
 
 
 ## PLAY 5: Implement SaaS
 - [ ] Implement product in sprints (product owner / scrum master task guidance from PSF) (add link)
 - [ ] Deploy communicaitons, change management, and training
 - [ ] Ensure [ VIP compliance](https://vaww.vaco.portal.va.gov/sites/OIT/epmo/vip/Pages/Policy%20and%20Guidance.aspx)
-
 
 
 ## PLAY 6: Monitor / Support
