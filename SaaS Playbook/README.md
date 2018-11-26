@@ -9,10 +9,10 @@ This playbook describes the high-level SaaS intake, assessment, and implementati
 
 ## The Plays
 
-1. Define the Need / Determine if the Solution is Saas
+1. Define the Need / Determine if the Solution is Saas (incl. microconsulting project)
 2. Complete VA's Unified Intake (VIPR) Process 
 3. Conduct a SaaS Security Assessment
-4. Test SaaS with Microconsulting MVP / Procure SaaS
+4. Procure SaaS
 5. Complete ATO tasks
 6. Implement SaaS
 7. Manage Operations / Measure Outcomes
@@ -25,6 +25,7 @@ This playbook describes the high-level SaaS intake, assessment, and implementati
 - [ ] Conduct an analysis of alternatives during intake process (as needed)
 - [ ] [OIT PSF to validate solution is SaaS]( https://github.com/department-of-veterans-affairs/PSF-SaaS/blob/master/SaaS-in-a-Box/SaaS%20Web%20Content/Online%20form.md) (and mark as "SaaS" request type in VIPR system)
 - [ ] Determine if SaaS product has started FedRamp process
+- [ ] Award a microconsulting project to test MVP SaaS 
 - [ ] Follow guidance provided by IT Cloud Security Team for FedRamp (add link from Mike C./Royce)
 - [ ] Follow [ guidance from PSF and IT Cloud Security Team]( https://github.com/department-of-veterans-affairs/PSF-SaaS/issues/126) for PWS (re seurity, SLAs, etc.)
 - [ ] All SaaS projects must have a VIPR ID & be marked as "SaaS" in VIPR
@@ -37,6 +38,8 @@ This playbook describes the high-level SaaS intake, assessment, and implementati
 - [ ] Prepare for [ SaaS procurement]( https://github.com/department-of-veterans-affairs/PSF-SaaS/issues/126) (sole source, SLA, etc.)
 
 ## PLAY 3: Conduct a SaaS Security Assessment
+- [ ] Provide information on current FedRAMP status and SaaS system
+- [ ] Complete security assessment
 
 
 ## PLAY 4: Test SaaS with Microconsulting MVP / Procure SaaS
