@@ -8,7 +8,7 @@ As VA OIT continues to modernize how we develop digital products, we encourage e
 
 MAPD is microconsulting program to help modernize and accelerate digital product development and delivery at VA. It’s available to everyone at VA. The threshold is $10,000 and you must clearly define your work products. (Note: This program is not intended to purchase office supplies, pay for conferences, pay for application upgrades, or circumvent other standard government purchasing processes.)
 
-The goal of MAPDis to accelerate “shipping a digital thing” that is high quality, easy to use, and in compliance with VA’s digital standards! Transparency is also a goal; therefore all work statements and deliverables are posted in the GitHub microconsulting repository.
+The goal of MAPDis to accelerate “shipping a digital thing” that is high quality, easy to use, and in compliance with [ VA’s digital standards](https://department-of-veterans-affairs.github.io/va-digital-service-handbook/)! Transparency is also a goal; therefore all work statements and deliverables are posted in the [ GitHub microconsulting repository](https://github.com/department-of-veterans-affairs/VA-Micropurchase-Repo).
 
 MAPD deliverables should not be traditional waterfall documents, PowerPoint presentations, and meetings.
 
