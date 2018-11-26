@@ -10,14 +10,15 @@ This playbook describes the high-level SaaS intake, assessment, and implementati
 ## The Plays
 
 1. Define the Need / Determine if the Solution is Saas
-2. Complete VA's Unified Intake (VIPR) Process including a SaaS Security Assessment
-3. Procure SaaS
-4. Ensure ATO compliance  
-5. Implement SaaS
-6. Manage Operations / Sustainment
-7. Measure Outcomes / Ongoing Improvement
+2. Complete VA's Unified Intake (VIPR) Process 
+3. Conduct a SaaS Security Assessment
+4. Test SaaS with Microconsulting MVP / Procure SaaS
+5. Complete ATO tasks
+6. Implement SaaS
+7. Manage Operations / Measure Outcomes
 
-## PLAY 1: Define the Need & Validate SaaS
+
+## PLAY 1: Define the Need / Validate Solution is SaaS
 - [ ] Conduct a [ discovery sprint]( https://department-of-veterans-affairs.github.io/va-digital-service-handbook/digital-standards) with real users 
 - [ ] Fill out the [ VA SaaS Inquiry Form](https://vaww.oit.va.gov/services/saas/) 
 - [ ] [ Complete VIPR Epics](https://vaww.vashare.oit.va.gov/sites/dmo/dmdocsite/DM%20External%20Government/OIT%20Intake%20Process%203.0%20Job%20Aids%20and%20Supporting%20Documents/Epic%20Writing%20Best%20Practices.pptx ) 
@@ -29,18 +30,21 @@ This playbook describes the high-level SaaS intake, assessment, and implementati
 - [ ] All SaaS projects must have a VIPR ID & be marked as "SaaS" in VIPR
 
 
-## PLAY 2: Complete VA's Unified Intake (VIPR) Process and SaaS Security Assessment
+## PLAY 2: Complete VA's Unified Intake (VIPR) Process
 - [ ] [ Complete the VIPR process and workbook](https://vaww.vashare.oit.va.gov/sites/amo/amointake/customer/Shared%20Documents/Detailed%20Intake%20Process%20v3.pptx )
 - [ ] OIT Cloud Security Team to complete SaaS Security Assessment (requires product to be identified)
 - [ ] Prepare for [SaaS mircoconsulting product implementation]( https://vaww.oit.va.gov/oit/mapd/) to exepdite testing of a minimum viable product (MVP)
 - [ ] Prepare for [ SaaS procurement]( https://github.com/department-of-veterans-affairs/PSF-SaaS/issues/126) (sole source, SLA, etc.)
 
-## PLAY 3: Procure SaaS
+## PLAY 3: Conduct a SaaS Security Assessment
+
+
+## PLAY 4: Test SaaS with Microconsulting MVP / Procure SaaS
 - [ ] Complete a [ microconsulting](https://github.com/department-of-veterans-affairs/VA-SaaS/tree/master/Microconsulting)  product implementation to test your SaaS MVP
 - [ ] Gather feedback and lessons learned on SaaS MVP
 - [ ] Award SaaS procurement
 
-## PLAY 4: Ensure ATO Compliance
+## PLAY 5:  Complete ATO tasks
 - [ ] Follow VA's ATO process: [ VA’s Authorization Requirements Standard Operating Procedures v3.22 (June 2018)](https://vaww.portal2.va.gov/sites/infosecurity/ca/CA%20Home%20Documents/Forms/AllItems.aspx?RootFolder=%2Fsites%2Finfosecurity%2Fca%2FCA%20Home%20Documents%2FATO%20Documents&FolderCTID=0x012000CB0DD849BEA0AB4FA5FEE491047C852D&View=%7B5FCA9CEF%2D1C50%2D441D%2DA2FE%2D28D536ED0098%7D)
 - [ ] VA issues FedRAMP ATO for SaaS / baseline for VA information system
 - [ ] VA information system completes Risk Managemetn Framework requirements
@@ -48,18 +52,15 @@ This playbook describes the high-level SaaS intake, assessment, and implementati
 - [ ] VA Information System ATO is issued
 
 
-## PLAY 5: Implement SaaS
+## PLAY 6: Implement SaaS
 - [ ] Implement product in sprints (product owner / scrum master task guidance from PSF) (add link)
 - [ ] Deploy communicaitons, change management, and training
 - [ ] Ensure [ VIP compliance](https://vaww.vaco.portal.va.gov/sites/OIT/epmo/vip/Pages/Policy%20and%20Guidance.aspx)
 
 
-## PLAY 6: Monitor / Support
+## PLAY 7: Manage Operations / Measure Outcomes
 - [ ] Fix bugs / support product per SLAs
 - [ ] Manage product roadmap (based on user research)
-
-## Play 7: Measure Results / Ongoing Improvement
-
 - [ ] Report on SLAs using automated monitoring and web-based reporting
 - [ ] Ongoing usability testing / user research
 
