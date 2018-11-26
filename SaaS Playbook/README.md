@@ -9,18 +9,19 @@ This playbook describes the high-level SaaS intake, assessment, and implementati
 
 ## The Plays
 
-1. Define the Need & Determine if the Solution is Saas
-2. Complete VA's Unified Intake (VIPR) Process including a SaaS Assessment
+1. Define the Need / Determine if the Solution is Saas
+2. Complete VA's Unified Intake (VIPR) Process including a SaaS Security Assessment
 3. Procure SaaS
-4. Get ATO Approval 
-5. Implement SaaS / Ensure VIP Compliance 
+4. Ensure ATO compliance  
+5. Implement SaaS
 6. Manage Operations / Sustainment
 7. Measure Outcomes / Ongoing Improvement
 
 ## PLAY 1: Define the Need & Validate SaaS
 - [ ] Conduct a [ discovery sprint]( https://department-of-veterans-affairs.github.io/va-digital-service-handbook/digital-standards) with real users 
-- [ ] [ Complete VIPR Epics](https://vaww.vashare.oit.va.gov/sites/dmo/dmdocsite/DM%20External%20Government/OIT%20Intake%20Process%203.0%20Job%20Aids%20and%20Supporting%20Documents/Epic%20Writing%20Best%20Practices.pptx )
-- [ ] AoA and Indetify the Proposed Product Solution
+- [ ] Fill out the [ VA SaaS Inquiry Form](https://vaww.oit.va.gov/services/saas/) 
+- [ ] [ Complete VIPR Epics](https://vaww.vashare.oit.va.gov/sites/dmo/dmdocsite/DM%20External%20Government/OIT%20Intake%20Process%203.0%20Job%20Aids%20and%20Supporting%20Documents/Epic%20Writing%20Best%20Practices.pptx ) 
+- [ ] Conduct an analysis of alternatives during intake process (as needed)
 - [ ] [OIT PSF to validate solution is SaaS]( https://github.com/department-of-veterans-affairs/PSF-SaaS/blob/master/SaaS-in-a-Box/SaaS%20Web%20Content/Online%20form.md) (and mark as "SaaS" request type in VIPR system)
 - [ ] Determine if SaaS product has started FedRamp process
 - [ ] Follow guidance provided by IT Cloud Security Team for FedRamp (add link from Mike C./Royce)
