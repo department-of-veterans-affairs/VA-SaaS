@@ -1,1 +1,1 @@
-# Includes information on process and organizational roles for SaaS at VA.
+Includes information about VA roles and processes relevant to SaaS implementation. 
