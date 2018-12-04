@@ -1,4 +1,4 @@
-### General questions regarding vendor security program/status. Please have this information avaialbe for your initial SaaS inquiry call:
+### General questions regarding vendor security program/status. Please have this information available for your initial SaaS inquiry call:
 
 
 - Is the vendor aware of FedRAMP and are they pursuing compliance/authorization? If so, please describe.
