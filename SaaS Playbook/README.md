@@ -69,7 +69,4 @@ This playbook describes the high-level SaaS intake, assessment, and implementati
 
 
 
-## Link to SaaS FAQs from CTO team (needs to be updated)
-
-
 
