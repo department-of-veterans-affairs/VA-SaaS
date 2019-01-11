@@ -4,7 +4,9 @@ Software-as-a-Service products represent a key opportunity for OIT to support VA
 
 Though VA has already adopted many SaaS products, there remains a high degree of confusion in OIT and the VA business lines about how – and whether – VA can use such services. This is because the model for Software-as-a-Service is quite different than VA’s traditional approach to software management in which VA procures licenses to software which we then install on infrastructure VA directly controls, and assume responsibility for securing, operating and maintaining that software over time. By contrast, in the SaaS model the vendor is responsible for these operational details. 
 
-This playbook describes the high-level SaaS intake, assessment, and implementation process being adopted by VA.
+This playbook describes the high-level SaaS intake, assessment, and implementation process being adopted by VA. VA is using the following guidance to define SaaS:
+
+SaaS products are applications that are hosted and managed by a third-party software vendor directly, and are not hosted in the VA environment. Typically, a SaaS service is accessed over a secure internet connection, for example by logging into a web application from a web browser. In other cases, a SaaS product may also be accessed using a “thin client” that is installed on a VA user’s PC or mobile device, which in turn communicates with the SaaS vendors’ servers. A single vendor will commonly provide the same SaaS service to multiple government and non-government clients using shared infrastructure which they manage. 
 
 
 ## The Plays
