@@ -22,7 +22,7 @@ SaaS products are applications that are hosted and managed by a third-party soft
 
 ## PLAY 1: Define the Need / Validate Solution is SaaS (incl. microconsulting)
 - [ ] Conduct a [ discovery sprint]( https://department-of-veterans-affairs.github.io/va-digital-service-handbook/digital-standards) with real users 
-- [ ] Fill out the [ VA SaaS Inquiry Form](https://vaww.oit.va.gov/services/saas/) 
+- [ ] Fill out the [ VA SaaS Inquiry Form](https://www.oit.va.gov/tech-incubator/saas) 
 - [ ] [ Complete VIPR Epics](https://vaww.vashare.oit.va.gov/sites/dmo/dmdocsite/DM%20External%20Government/OIT%20Intake%20Process%203.0%20Job%20Aids%20and%20Supporting%20Documents/Epic%20Writing%20Best%20Practices.pptx ) 
 - [ ] Conduct an analysis of alternatives during intake process (as needed)
 - [ ] [OIT PSF to validate solution is SaaS]( https://github.com/department-of-veterans-affairs/PSF-SaaS/blob/master/SaaS-in-a-Box/SaaS%20Web%20Content/Online%20form.md) (and mark as "SaaS" request type in VIPR system)
